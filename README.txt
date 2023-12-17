@@ -1,4 +1,5 @@
-This is the Matlab code for absolute camera pose estimation from line correspondences using Direct Linear Transformation. The theory and background is described in our paper "Přibyl, Bronislav and Zemčík, Pavel and Čadík, Martin: Absolute Pose Estimation from Line Correspondences using Direct Linear Transformation". https://arxiv.org/abs/1608.06891
+This is the Matlab code for absolute camera pose estimation from line correspondences using Direct Linear Transformation. The theory and background is described in our paper "Přibyl, Bronislav and Zemčík, Pavel and Čadík, Martin: Absolute Pose Estimation from Line Correspondences using Direct Linear Transformation". 
+https://arxiv.org/abs/1608.06891
 
 The proposed method DLT-Combined-Lines is implemented in file "DLT_Combined_Lines.m".
 
